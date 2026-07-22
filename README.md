@@ -1,3 +1,8 @@
+The is a design of plant Database
+
+It allow user to track product type and price to determine market demans.
+
+
 To support your database, I have integrated the plants and herbs from our conversation with **estimated market demand and retail prices** typical for the **Los Angeles** region.
 
 **Disclaimer:** This market data (demand and pricing) is **not from your provided sources** and is based on general trends for organic and specialty produce in urban California markets. Prices vary significantly by season and specific retail outlet (e.g., Farmers Markets vs. high-end grocery).,,
